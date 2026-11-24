@@ -20,7 +20,7 @@ Presentation: November 24, 2026
 | 1 | Interactive BI dashboard (open-source, Option C) | [`dashboard/superstore_dashboard.html`](dashboard/superstore_dashboard.html) |
 | 2 | Python notebook (fully commented, executed) | [`notebook/final_visualizations.ipynb`](notebook/final_visualizations.ipynb) |
 | 3 | Executive presentation deck | [`presentation/Superstore_Data_Story.pptx`](presentation/Superstore_Data_Story.pptx) · [PDF](presentation/Superstore_Data_Story.pdf) |
-| 4 | Live presentation | Speaker notes for all 5 members are in the deck |
+
 
 ## Dataset
 
