@@ -8,7 +8,7 @@ Presentation: November 24, 2026
 | Role | Member |
 |---|---|
 | Data Architect & Wrangler | Jesus Ivan Tamay Balam (2302146) |
-| BI Dashboard Lead | Laura Patricia Chavez Chi (2302053) |
+| BI Dashboard Lead | Jesus Ivan Tamay Balam (2302146) |
 | Python Visualization Specialist | Adriel Arturo Solano Peraza (2302019) |
 | Narrative & Data Storytelling Lead | Alexis Alfredo Bustos Rodríguez (2302117) |
 | QA & Integration Lead | Jesús Gallegos Gaspar (2302041) |
